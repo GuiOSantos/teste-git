@@ -1,0 +1,6 @@
+De qualquer forma, consegui usar os comandos - 
+git add
+git commit
+git push -u
+git pull
+ agora quero entender melhor o sistema como um todo 
