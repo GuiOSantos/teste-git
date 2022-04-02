@@ -2,3 +2,5 @@ Ola, testando comandos do git e sua interação com github
 
 
 Agora vou tentar utilizar o comando pull.
+
+Consegui usar, mas quero achar onde notifica no git bash que há necessidade de realizar o pull.
